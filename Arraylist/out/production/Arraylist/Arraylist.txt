@@ -1,0 +1,23 @@
+What is Arraylist ?
+An arraylist is dynamic data structured in java.
+1.A resizeable array.
+2.Part of java,s 'java.util' package.
+3.Can grow or shrink automatically.
+4.Store element in order.
+5.Mutability
+
+Creation.
+Accessing.
+Update.
+Traversing.
+In-built-methods.
+Assignment.
+
+
+add()
+add(3,"abhay")
+addlast()
+addfirst()
+get(index)
+getfirst()
+getlast()

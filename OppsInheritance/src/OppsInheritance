@@ -1,0 +1,30 @@
+Inheritance:
+Allows a class(child/Derived) to acquire properties and behaviors of another class(parent/Base).
+Type of inheritance in java oops.
+1.Single inheritance
+2.Multiple inheritance(through interfaces only)
+3.Multilevel inheritance
+4.Hierarchical Inheritance
+5.Hybrid Inheritance (Combination)
+
+Supported with classes : Single,Multilevel,Hierarchical
+Not supported with classes : Multiple,Hybrid(but possible via interface)
+
+Task:
+Create class : whatsappv1
+(data:v1_year,v1_owened_by)
+(method:text_message,file_share)
+
+Create class : whatsappv2
+(data:v2_year,v2_owened_by)
+(method:group_message,file_share)
+
+Create class : whatsappv3
+(data:v3_year,v3_owened_by)
+(method:vedio_message,status,file_share)
+
+Create class : whatsappv4
+(data:v4_year,v4_owened_by)
+(method:text_message,file_share)
+
+End-point-user : User can be able to access and use all these feature (v1,vn)

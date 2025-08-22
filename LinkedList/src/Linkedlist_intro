@@ -1,0 +1,21 @@
+What is LinkedList ?
+A linkedlist is made up of nodes where each node hold data and reference to other nodes.
+# Type of LL:
+1.SLL(Singly Linkedlist):
+    1.Each node points to next node only.
+    2.You can only move forward.
+    3.Simple and use less memory.
+    4.Deletion/insertion slow (next)
+    Head->[10]->[20]->[30]->[40]->null
+
+2.DLL(Doubly linkedlist):
+    1.Each node points to both next and previous node.
+    2.You can move forward and backward.
+    3.Uses more memory due to the prev pointer.
+    4.Deletion/insertion fast (prev/next)
+    Head->[10]<->[20]<->[30]<->[40]->null
+
+3.Types how can we create LL.
+1.Using method (java.util.LinkedList) Real-application (low flexible)
+2.Custom (class) Learning/impliment (high flexible)
+

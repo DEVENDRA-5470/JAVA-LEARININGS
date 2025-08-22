@@ -1,0 +1,27 @@
+Switch Statements used to compare the values of a variable/expression with
+multiple constant cases and executes the matching case.
+it is an alternative to if-else-if ladder
+
+keywords : switch(expression/variable)
+            case value:
+                statement
+                break;
+            case value:
+                statement
+                break;
+            default ;
+                statement
+
+Data types not allowed : long, float, double, boolean ,object types
+Data types allowed : byte,short,int,string,enum,char.
+
+9
+
+10
+matrix pass
+
+11
+12
+inter pass
+
+higher edu

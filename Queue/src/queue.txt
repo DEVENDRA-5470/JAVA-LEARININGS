@@ -1,0 +1,18 @@
+A Queue is a linear data structure that follows the FIFO (First in , First out) principal.
+A Queue is a collection used to hold multiple elements prior to processing . The first element added
+to the queue will be the first one to be removed.
+
+Java Queue Interfaces.
+1.Linkedlist
+2.PriorityQueue
+3.ArrayDeque.
+
+Collection <- Queue (interface) <- Linkedlist ,PriorityQueue,ArrayDeque (classes that implement Queue)
+
+Use Cases of Queue.
+Print Queue : printer process documents in order.
+Customer Service : Handling services requests in order received.
+Task scheduling /Cpu Scheduling(concurrency) : Task are process one by one in order.
+BFS(Breadth-First-Search) : Queue is user in graph traversal.
+Message Queues / Job Queues : Popular in backend system and distributed architecture.
+
