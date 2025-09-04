@@ -1,0 +1,12 @@
+Polymorphism in java is the ability of a single entity (method,object,opr)
+to take multiple form it helps achieve flexibility and reusability in code base.
+
+1.Types of polymorphism:
+   Method overloading (Compile-time Polymorphism)
+        When two or more methods in the same class share the same name but differ in p
+        parameters (number,type or order) the method to execute is decided at compile time
+
+   Method overriding (Runtime Polymorphism)
+        When a subclass provides its own implementation of a method that is already
+        defined in its parent class.
+        The method to execute is decided at runtime based on the object.
